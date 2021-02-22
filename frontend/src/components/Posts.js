@@ -3,7 +3,7 @@ const Posts=(props)=>{
 const [post,setPost]=useState([]);
 const [title,setTitle]=useState('');
 const [limit,setLimit]=useState(10);
-const [userId,setUserId]=useState(undefined);
+const [userId,setUserId]=useState(props.userId);
 const [body,setBody]=useState('');
 
 
