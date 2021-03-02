@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rentomojo.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Rentomojo.io/static/js/main.c74f9e75.chunk.js",
+    "main.js.map": "/Rentomojo.io/static/js/main.c74f9e75.chunk.js.map",
+    "runtime-main.js": "/Rentomojo.io/static/js/runtime-main.4a37bb0b.js",
+    "runtime-main.js.map": "/Rentomojo.io/static/js/runtime-main.4a37bb0b.js.map",
+    "static/css/2.150d169a.chunk.css": "/Rentomojo.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.fe2f464f.chunk.js": "/Rentomojo.io/static/js/2.fe2f464f.chunk.js",
+    "static/js/2.fe2f464f.chunk.js.map": "/Rentomojo.io/static/js/2.fe2f464f.chunk.js.map",
+    "static/js/3.68e5ee1b.chunk.js": "/Rentomojo.io/static/js/3.68e5ee1b.chunk.js",
+    "static/js/3.68e5ee1b.chunk.js.map": "/Rentomojo.io/static/js/3.68e5ee1b.chunk.js.map",
+    "index.html": "/Rentomojo.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Rentomojo.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Rentomojo.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fe2f464f.chunk.js.LICENSE.txt": "/Rentomojo.io/static/js/2.fe2f464f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a37bb0b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fe2f464f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c74f9e75.chunk.js"
+  ]
+}
